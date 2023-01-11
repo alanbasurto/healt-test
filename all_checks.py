@@ -2,7 +2,7 @@ import os
 import sys
 
 def check_reboot():
-	"""comment"""
+	"""just updating a commetn"""
 	return os.path.exists("/run/reboot-required")
 
 
